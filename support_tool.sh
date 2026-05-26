@@ -11,3 +11,15 @@ echo "Bitte geben Sie Ihren Namen ein:"
 read name 
 
 echo "Hallo $name, willkommen im IT Support Tool." 
+
+echo "" 
+
+echo "Bitte wählen Sie eine Aufgabe:" 
+
+echo "1) Systeminformationen anzeigen" 
+
+echo "2) Speicherplatz prüfen" 
+
+echo "3) Programm beenden" 
+
+read auswahl 
